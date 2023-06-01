@@ -6,7 +6,7 @@ scalaVersion := "2.12.17"
 val akkaVersion = "2.5.17"
 val akkaHttpVersion = "10.1.5"
 
-val antlrVer = "4.12.0"
+val antlrVer = "4.13.0"
 enablePlugins(Antlr4Plugin)
 antlr4Version in Antlr4 := antlrVer
 antlr4PackageName in Antlr4 := Some("tech.navicore.antlr4.demo.antlr")
