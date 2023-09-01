@@ -2,7 +2,7 @@ name := "Antlr4demo"
 
 version := "1.0"
 
-scalaVersion := "2.12.18"
+scalaVersion := "2.13.11"
 val akkaVersion = "2.5.17"
 val akkaHttpVersion = "10.1.5"
 
